@@ -1,40 +1,16 @@
 # Style guides (a.k.a. pattern libraries, templates)
 
-Notes for style guide discussion for SRCCON 2014.
+This is a style guide collection built on top of Alan Palazzolo's 2014 SRCCON note.
 
 ## What is a style guide?
 
-This is my own definition.
-
 A style guide creates standards and best practices for a system or set of decisions that are otherwise subjective.
 
-To note, "style" does not mean that the decisions are visual, it means that the decision that is made is subjective and based on opinion or style.
-
-There are two main questions to think about when defining what a style guide is.  The style of what system or set of decisions?  And, how are standards and best practices transferred or communicated?
-
-[Wikipedia article about style guides](http://en.wikipedia.org/wiki/Style_guide)
 
 ### The style of what?
 
-There are many different possibilities of what it is that is being styled.
+This is primiraly a style guide collection of digital interfaces, visualizations and interactives.
 
-* digital interfaces (web)
-* print design/layout
-* code
-* copy
-* tone
-* visualizations
-* interactives
-* project management
-
-### Medium of the guide
-
-How these best practices and standards are communicated can vary as well.
-
-* narrative
-* code
-* specifications
-* generative
 
 ## Examples
 
@@ -52,17 +28,6 @@ News interface examples:
 * [KPCC Style Guide](https://github.com/SCPR/scpr-styleguide): Looks to be a web interface style guide, but not actually public anywhere.
 * [BBC Global Experience Language (GEL)](http://www.bbc.co.uk/gel): A set of interface and copy guidelines for all digital mediums.
 
-News copy examples:
-
-* [Associated Press Stylebook](https://www.apstylebook.com/):  Copy style guide (reusable and for sale).
-* [New York Times Manual of Style and Usage](http://en.wikipedia.org/wiki/The_New_York_Times_Manual_of_Style_and_Usage): Copy style guide (reusable and for sale).
-* [The Wall Street Journal Guide to Business Style and Usage](http://amazon.com/Street-Journal-Guide-Business-Guides/dp/0743212959): Copy style guide as well as glossary/reference for business terms.
-* [BBC News style guide](http://www.bbc.co.uk/academy/journalism/news-style-guide): Copy and grammar guide.
-    * An older [BBC style guide](http://www2.media.uoa.gr/lectures/linguistic_archives/academic_papers0506/notes/stylesheets_3.pdf): Copy and tone style guide with a heavy hand of the why for style decisions.
-* [Economist style guide](http://www.economist.com/styleguide/introduction): Copy and tone style guide.
-* [Guardian style guide](http://www.theguardian.com/guardian-observer-style-guide-a): Glossary style copy guide.
-* [Telegraph style book](http://www.telegraph.co.uk/topics/about-us/style-book/): Grammar and copy style guide by topic and glossary.
-
 News code examples:
 
 * [NYT Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide): Code style guide.
@@ -73,7 +38,7 @@ News code project templates:
 * [NPR's app templates](https://github.com/nprapps/app-template): Python based template for making NPR news apps.
 * [MinnPost templates](https://github.com/MinnPost/minnpost-templates): Yeoman based system for generating MinnPost projects.
 
-Other news examples:
+News Applications:
 
 * [Propublica's nerds guides](https://github.com/propublica/guides/): A set of narrative best practices for project philosophy, application components, coding, FB/Twitter HTML tagging, and data processing.
 * [NPR best practices](https://github.com/nprapps/bestpractices): A set of best practice documents for project workflow, versioning, and coding for the NPR Visuals team.  Tied closely to their [app-template](https://github.com/nprapps/app-template).
@@ -82,6 +47,7 @@ Other news examples:
 
 Non-news interface examples:
 
+* [ONS Styleguide](http://style.ons.gov.uk/)
 * [Article about Eventbrite's style guide](https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/): Looks like a CSS and JS framework.
 * [Google's HTML and CSS style guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml): Instructions on how to write CSS and HTML code.
 * [Starbuck's general web style guide](http://www.starbucks.com/static/reference/styleguide/): CSS and JS framework for (probably) general web assets.  Does not seem to be downloadable or much info about it.
