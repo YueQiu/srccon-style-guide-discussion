@@ -28,25 +28,17 @@ News interface examples:
 * [KPCC Style Guide](https://github.com/SCPR/scpr-styleguide): Looks to be a web interface style guide, but not actually public anywhere.
 * [BBC Global Experience Language (GEL)](http://www.bbc.co.uk/gel): A set of interface and copy guidelines for all digital mediums.
 
-News code examples:
-
-* [NYT Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide): Code style guide.
-
-News code project templates:
-
-* [Tarbell](http://tarbell.tribapps.com/): Python based templating system for publishing web sites.
-* [NPR's app templates](https://github.com/nprapps/app-template): Python based template for making NPR news apps.
-* [MinnPost templates](https://github.com/MinnPost/minnpost-templates): Yeoman based system for generating MinnPost projects.
-
-News Applications:
+News Applications and data visualizations:
 
 * [Propublica's nerds guides](https://github.com/propublica/guides/): A set of narrative best practices for project philosophy, application components, coding, FB/Twitter HTML tagging, and data processing.
 * [NPR best practices](https://github.com/nprapps/bestpractices): A set of best practice documents for project workflow, versioning, and coding for the NPR Visuals team.  Tied closely to their [app-template](https://github.com/nprapps/app-template).
+* [ONS Styleguide](http://style.ons.gov.uk/category/data-visualisation/)
 
 ### Non-news
 
 Non-news interface examples:
 
+* [GDS Styleguide](https://www.gov.uk/service-manual/assets/documents/Infographics_Guide.pdf)
 * [ONS Styleguide](http://style.ons.gov.uk/)
 * [Article about Eventbrite's style guide](https://engineering.eventbrite.com/styleguide-driven-development-at-eventbrite-introduction/): Looks like a CSS and JS framework.
 * [Google's HTML and CSS style guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml): Instructions on how to write CSS and HTML code.
@@ -67,8 +59,15 @@ Non-news interface examples:
     * [Twitter's Bootstrap](http://getbootstrap.com/): A CSS/JS web interface guide inspired by Twitter.
     * [Barebones](http://barebones.paulrobertlloyd.com/): A CSS web interface style guide for a minimal design.
 
-Non-news code examples:
+News code project templates:
 
+* [Tarbell](http://tarbell.tribapps.com/): Python based templating system for publishing web sites.
+* [NPR's app templates](https://github.com/nprapps/app-template): Python based template for making NPR news apps.
+* [MinnPost templates](https://github.com/MinnPost/minnpost-templates): Yeoman based system for generating MinnPost projects.
+
+Code examples:
+
+* [NYT Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide): Code style guide.
 * [AirBnB JS style guide](https://github.com/airbnb/javascript): Coding style guides for JS.  MinnPost has adopted these.
 * Also has a [Ruby style guide](https://github.com/airbnb/ruby)
 * [Github style guide](https://github.com/styleguide/css): Includes code style guides for CSS, HTML, JS, and Ruby.
@@ -86,15 +85,6 @@ Non-news design examples:
 * [Channel 4 style guide](http://www.channel4.com/about_c4/styleguide/downloads/C4StyleGuide1.1.pdf): Specifications and philosophy for design and brand management.
 * [MailChimp branding](http://mailchimp.com/about/brand-assets/): Brand resources and guide.
 
-Non-news copy examples:
-
-* [Mailchimp tone and voice](http://voiceandtone.com/): Tone and voice guide.
-* [Wikipedia style manual](http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style): How to write articles.
-* [ISO standard for "presentation of contributions to periodicals and other serials"](http://www.iso.org/iso/catalogue_detail.htm?csnumber=4086): ...
-* [EU style guide](http://publications.europa.eu/code/en/en-000100.htm): Guide for all written materials from the EU; in 23 languages.
-* [MLA Style Manual and Guide to Scholarly Publishing](http://www.mla.org/store/CID25/PID341): Copy style guide for research and academic works.
-* [The Elements of Style](http://en.wikipedia.org/wiki/The_Elements_of_Style): General American English copy style guide.
-* [The Yahoo! Style Guide](http://amazon.com/The-Yahoo-Style-Guide-Sourcebook/dp/031256984X): General style guide for copy on the web.
 
 Other non-news examples:
 
