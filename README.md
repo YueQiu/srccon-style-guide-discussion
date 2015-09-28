@@ -2,12 +2,7 @@
 
 This is a style guide collection built on top of Alan Palazzolo's 2014 SRCCON note.
 
-## What is a style guide?
-
-A style guide creates standards and best practices for a system or set of decisions that are otherwise subjective.
-
-
-### The style of what?
+"A style guide creates standards and best practices for a system or set of decisions that are otherwise subjective." -- Alan Palazzolo
 
 This is primiraly a style guide collection of digital interfaces, visualizations and interactives.
 
@@ -103,31 +98,6 @@ Helpful links:
 * [FindGuideline.es](http://findguidelin.es/): Search for brand assets from different organizations.
 * [Github search for "style"](https://github.com/search?q=style+user%3Aminnpost+user%3Anytimes+user%3Apropublica+user%3Adatadesk+user%3Atexastribune+user%3Anewsapps+user%3Anprapps+user%3Awnyc+user%3Awashingtonpost+user%3Aguardian+user%3AopenNews+user%3Adocumentcloud+user%3Aajam+user%3Asourcefabric+user%3Aquartz+user%3Acensusreporter+user%3Aireapps+user%3Adatawrapper+user%3ATheAssociatedPress+user%3AZeitOnline+user%3Aoverview+user%3Ahuffpostdata+user%3Apoderopedia+user%3ALearningLab+user%3Aglasseyemedia+user%3Astateimpact+user%3Afreedomofpress+user%3ANUKnightLab+user%3Asuperdesk+user%3Anacion+user%3Acirlabs+user%3ABBC-News+user%3ASCPR+user%3APRX+user%3Avprnet+user%3Abuzzfeednews+user%3Amcclatchy+user%3Aregisterguard+user%3Adallasmorningnews+user%3Avoxmedia+user%3Afivethirtyeight+user%3Atheupshot+user%3Athunderdome-data+user%3Asunlightlabs+user%3Ainn+user%3Astlpublicradio+user%3AAPMG&type=Repositories&ref=advsearch&l=) for only orgs listed in CAR-Code.
 
-## Discussion
-
-### Introduction
-
-* `Assign note taker.`
-* Gatekeeper.  If you speak more than twice, you should really think about speaking again.
-* Who I am and the like.
-* Our recent style guide.
-* Goals and outline:
-    1. Better define a style guide
-    1. What are the benefits and weaknesses
-    1. How can we make style guides
-    1. Can we make a general style guide
-* (depending on how many people in room) Introduce each other
-    * Name
-    * Org
-    * Favorite thing to read on the internet, besides your own org.
-
-### Feel for the room:
-
-|Question       |  Answer|
-|:------------- |-------:|
-| How many people have a style guide at their organization for any purpose? | _ |
-| How many people have written code? Any amount, including HTML/CSS? | _ |
-| How many people have worked on a style guide of any sort? | _ |
 
 ### Examples
 
@@ -169,125 +139,6 @@ Let's get the creative juices flowing and look at some examples.
     * Application/templating system for publishing lightweight web apps.
     * Makes a lot of decisions for you.
 
-### Groups (maybe)
 
-Depending on number of people, break out into groups of about 7.
 
-* Number off (if lots of people), or just arbitrarily split the room.
-* Assign note taker.
-* Assign report(back)er.
 
-### Discussion points
-
-For each question, groups should discuss then report back to whole group.
-
-1. What are the types of things that have style?
-    * What could have a style guide?
-    * Try to aim broad, like "code".  But if you get in the details, that's alright too.
-1. What are the benefits and weaknesses of style guides?
-    * How would you sell the idea to your org?
-    * What are the perceived roadblocks of creating a style guide?
-1. How would you go about creating a style guide? im
-    * Pick a type of style guide.  For interface, for code, for copy.
-    * What are the parts you need?
-    * Who do you need for it?
-    * How do you keep it up to date?
-    * How do ensure others are using it?
-    * What tools or techniques would you use (or have you used)?
-    * How do you get buy in?
-* Can or should we make style guides to use across multiple newsrooms?
-    * For instance, the AP Stylebook.
-    * Or the ProPublica Nerd's Guide
-
-### Discussion notes
-
-Types of things to style?
-
-* Devops best practices.  Example: TwelveSteps
-* Code (syntax)
-* Internal communication
-    * Tools to use
-    * Tone
-    * Ensure email has a subject
-* External communication, tone
-* General computer use
-    * File sharing
-    * Password management
-* Code of Conduct
-* Design
-    * Typography
-    * Colors
-* Photography
-    * Processing
-    * Resizing
-* Advertising
-* Interaction patterns
-* Web interface
-* Copy, grammar
-
-Pros and Cons
-
-* Pros
-    * Helps with onboarding new employees or contributors to project.
-    * Less debate about stylistic things
-    * Generally saves time
-    * Provides an essential, referencable source
-    * Forces decision making
-    * Can require thinking about accessibility or other things that may be often overlooked.
-    * Helps maintain control and scope on projects
-    * Makes things that don't follow require and show importance.  Shining breakthroughs.
-    * Don't have to start from scratch
-    * Suppresses whims of superiors
-    * Requires specific understanding of why there is a need to break or go outside the style guide.
-    * Offers a good amount flexibility.  "guide" not "rules".
-    * Offers ownerhip
-        * Will be used by team that creates it
-    * Solidifies branding and identity
-    * My original list
-        * Saves time building.
-        * Makes communication smoother.
-        * Provides consistency.
-        * Easier to maintain whatever the style guide is for.
-        * Can provide for an early testbed.
-        * (CSS) Ensures most minimal amount of CSS is written.
-* Cons
-    * Requires time, commitment, and execution
-    * Requires maintenance
-    * Requires buy-in and use
-    * Might have to defend (often) against haters.
-    * Could provide a false send of security
-        * Ex. just because an app passes Apple's guidelines, doesn't make it useful or important.
-    * Can stifle innovation or creativity
-    * Requires adjustment period to use
-    * Balancing comprehesiveness and flexibility
-    * Can become stale
-    * Not always shared across organization
-        * Ex. Print department may have their own style guide, while the web department does too
-    * How to reconcile web and print style guides
-    * Overall investment
-    * Can become too authoritative, or "gospel-like"
-    * Misuse of the style guide
-    * Not having ownership can mean not using
-        * If team uses old team's style guide
-    * Can be a significant barrier to entry, specifically to contributing to a (open source) project.
-    * Can be very negative if style guide goes against larger, universal styles
-    * My original list
-        * Takes time to create.
-        * Takes time to maintain.
-        * May limit creativity.
-        * Requires expertise.
-
-Thoughts on making style guides for SRCCON/journalism community.
-
-* A guide on which (open source) tools are the best and why.
-* Tough to reconcile between standards and best practices.
-* "PEP8 for journalism"?
-    * Is there specific coding styles that are needed for journalism.
-* Best ways to write a README geared towards the journalist audience.
-* Best ways to release open source software for journalists.
-* Best ways to evaulate tools
-* Philosphies and values could be shared across the community.
-* Reconcile principle versus styles
-* What is practival for everyone as opposed to specific to a brand or identity
-* The AP Stylebook is somehwat unique/driven-by that their content is distrbuted across many organizations
-* Making audio expercial for everyone
